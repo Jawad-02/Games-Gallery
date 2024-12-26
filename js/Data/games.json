@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "gameName": "Subway Surfers",
+        "description": "A fast-paced endless runner game where players dash through subway tracks, dodging trains and obstacles while collecting coins and power-ups.",
+        "gameImage": "images/subway.jpg"
+    },
+    {
+        "id": 2,
+        "gameName": "Clash of Clans",
+        "description": "A strategy game where players build and defend their villages, train armies, and engage in epic clan wars to dominate the leaderboard.",
+        "gameImage": "images/Clash.jpg"
+    },
+    {
+        "id": 3,
+        "gameName": "Clash Royale",
+        "description": "A real-time multiplayer card-based strategy game where players deploy troops, spells, and buildings to destroy opponent towers.",
+        "gameImage": "images/clashroyal.jpg"
+    },
+    {
+        "id": 4,
+        "gameName": "Candy Crush Saga",
+        "description": "A popular match-three puzzle game where players swap candies to clear levels and achieve high scores through clever combinations.",
+        "gameImage": "images/candy.jpg"
+    },
+    {
+        "id": 5,
+        "gameName": "Hay Day",
+        "description": "A relaxing farming simulation game where players manage their farms, grow crops, raise animals, and trade goods with neighbors.",
+        "gameImage": "images/hay.jpg"
+    }
+]
